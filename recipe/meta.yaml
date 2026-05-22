@@ -9,7 +9,7 @@ source:
   sha256: 029392799c88e65b2004c6569c7046fafa6547c83e4df265ad8a4675d95ba173
 
 build:
-  number: 0
+  number: 1
   skip: True  # [win or nodejs != 20 or ppc64le]
 
 requirements:
